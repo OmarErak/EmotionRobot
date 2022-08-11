@@ -142,6 +142,7 @@ int main()                                    // Main function
   }  
 }
 
+
 void defaultHappyState()
 {
   static int ledCounter = 0;
